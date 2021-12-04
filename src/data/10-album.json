@@ -1,0 +1,636 @@
+{
+  "feed": {
+    "id": "http://mzstoreservices-int-st.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topalbums/limit=10/xml",
+    "title": "iTunes Store: Top Albums",
+    "updated": "2021-12-04T04:40:04-07:00",
+    "link": ["", ""],
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://www.apple.com/itunes/"
+    },
+    "rights": "Copyright 2008 Apple Inc.",
+    "entry": [
+      {
+        "id": "https://music.apple.com/us/album/servant-of-the-mind-deluxe/1586126017?uo=2",
+        "title": "Servant Of The Mind (Deluxe) - Volbeat",
+        "name": "Servant Of The Mind (Deluxe)",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Volbeat",
+        "price": "$11.99",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a1/22/8a/a1228a21-a111-8432-7ec9-f0f3618faf74/21UMGIM33138.rgb.jpg/55x55bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/a1/22/8a/a1228a21-a111-8432-7ec9-f0f3618faf74/21UMGIM33138.rgb.jpg/60x60bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/a1/22/8a/a1228a21-a111-8432-7ec9-f0f3618faf74/21UMGIM33138.rgb.jpg/170x170bb.png"
+        ],
+        "rights": "A Vertigo Berlin release; ℗ 2021 VOLBEAT, under exclusive license to Universal Music GmbH",
+        "releaseDate": "2021-12-03T00:00:00-07:00",
+        "itemCount": 18,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Servant Of The Mind (Deluxe)"
+                          },
+                          "br": "",
+                          "a": "Volbeat",
+                          "font": {
+                            "#text": "$11.99December 3, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Metal"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; A Vertigo Berlin release; ℗ 2021 VOLBEAT, under exclusive license to Universal Music GmbH"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/30/1590035691?uo=2",
+        "title": "30 - Adele",
+        "name": 30,
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Adele",
+        "price": "$9.99",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/55x55bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/60x60bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "releaseDate": "2021-11-19T00:00:00-07:00",
+        "itemCount": 12,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": 30
+                          },
+                          "br": "",
+                          "a": "Adele",
+                          "font": {
+                            "#text": "$9.99November 19, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Pop"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/body-language-deluxe/1587416785?uo=2",
+        "title": "Body Language (Deluxe) - Blake Shelton",
+        "name": "Body Language (Deluxe)",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Blake Shelton",
+        "price": "$12.99",
+        "image": [
+          "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/3e/47/fd/3e47fd49-4c3e-3894-2543-275bb15ba2ad/093624875659.jpg/55x55bb.png",
+          "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/3e/47/fd/3e47fd49-4c3e-3894-2543-275bb15ba2ad/093624875659.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/3e/47/fd/3e47fd49-4c3e-3894-2543-275bb15ba2ad/093624875659.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Ten Point Productions, Inc. under exclusive license to Warner Records Inc.",
+        "releaseDate": "2021-05-21T00:00:00-07:00",
+        "itemCount": 17,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Body Language (Deluxe)"
+                          },
+                          "br": "",
+                          "a": "Blake Shelton",
+                          "font": {
+                            "#text": "$12.99May 21, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Country"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Ten Point Productions, Inc. under exclusive license to Warner Records Inc."
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/when-christmas-comes-around/1586039341?uo=2",
+        "title": "When Christmas Comes Around... - Kelly Clarkson",
+        "name": "When Christmas Comes Around...",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Kelly Clarkson",
+        "price": "$6.99",
+        "image": [
+          "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/31/1c/4e/311c4e60-af75-321d-7323-1a31ffd08eb0/075679773852.jpg/55x55bb.png",
+          "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/31/1c/4e/311c4e60-af75-321d-7323-1a31ffd08eb0/075679773852.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/31/1c/4e/311c4e60-af75-321d-7323-1a31ffd08eb0/075679773852.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Kelly Clarkson under exclusive license to Atlantic Recording Corporation",
+        "releaseDate": "2021-10-15T00:00:00-07:00",
+        "itemCount": 15,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "When Christmas Comes Around..."
+                          },
+                          "br": "",
+                          "a": "Kelly Clarkson",
+                          "font": {
+                            "#text": "$6.99October 15, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Holiday"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Kelly Clarkson under exclusive license to Atlantic Recording Corporation"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/west-side-story-original-motion-picture-soundtrack/1597020481?uo=2",
+        "title": "West Side Story (Original Motion Picture Soundtrack) - West Side Story – Cast 2021, Leonard Bernstein & Stephen Sondheim",
+        "name": "West Side Story (Original Motion Picture Soundtrack)",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "West Side Story – Cast 2021, Leonard Bernstein & Stephen Sondheim",
+        "price": "$11.99",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/71/b1/ec/71b1ec21-b3a7-9e2f-52c2-c37ef2155dea/21UM1IM43161.rgb.jpg/55x55bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/71/b1/ec/71b1ec21-b3a7-9e2f-52c2-c37ef2155dea/21UM1IM43161.rgb.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/71/b1/ec/71b1ec21-b3a7-9e2f-52c2-c37ef2155dea/21UM1IM43161.rgb.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 20th Century Studios",
+        "releaseDate": "2021-12-03T00:00:00-07:00",
+        "itemCount": 21,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "West Side Story (Original Motion Picture Soundtrack)"
+                          },
+                          "br": "",
+                          "a": "West Side Story – Cast 2021, Leonard Bernstein &amp; Stephen Sondheim",
+                          "font": {
+                            "#text": "$11.99December 3, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Musicals"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 20th Century Studios"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/the-essential-now-thats-what-i-call-christmas/1440793555?uo=2",
+        "title": "The Essential NOW That's What I Call Christmas - Various Artists",
+        "name": "The Essential NOW That's What I Call Christmas",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Various Artists",
+        "price": "$6.99",
+        "image": [
+          "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/8d/02/e7/8d02e704-99b0-6dfb-215c-38181d453b33/08UMGIM20016.rgb.jpg/55x55bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8d/02/e7/8d02e704-99b0-6dfb-215c-38181d453b33/08UMGIM20016.rgb.jpg/60x60bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/8d/02/e7/8d02e704-99b0-6dfb-215c-38181d453b33/08UMGIM20016.rgb.jpg/170x170bb.png"
+        ],
+        "rights": "This Compilation ℗ 2008 EMI Music North America / Sony BMG Music / UMG Recordings, Inc.",
+        "releaseDate": "2008-01-01T00:00:00-07:00",
+        "itemCount": 25,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "#text": "Various Artists",
+                          "b": {
+                            "a": "The Essential NOW That's What I Call Christmas"
+                          },
+                          "br": "",
+                          "font": {
+                            "#text": "$6.99January 1, 2008",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Holiday"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; This Compilation ℗ 2008 EMI Music North America / Sony BMG Music / UMG Recordings, Inc."
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/gotti/1595986527?uo=2",
+        "title": "GOTTI - Berner",
+        "name": "GOTTI",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Berner",
+        "price": "$5.99",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/77/a1/1d/77a11d89-b87d-ba5b-aa16-51008e467bf3/194690696527_cover.jpg/55x55bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/77/a1/1d/77a11d89-b87d-ba5b-aa16-51008e467bf3/194690696527_cover.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/77/a1/1d/77a11d89-b87d-ba5b-aa16-51008e467bf3/194690696527_cover.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Bern One Entertainment",
+        "releaseDate": "2021-12-03T00:00:00-07:00",
+        "itemCount": 19,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "GOTTI"
+                          },
+                          "br": "",
+                          "a": "Berner",
+                          "font": {
+                            "#text": "$5.99December 3, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Hip-Hop/Rap"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Bern One Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/a-very-maverick-christmas-feat-mav-city-gospel-choir/1596816224?uo=2",
+        "title": "A Very Maverick Christmas (feat. Mav City Gospel Choir) - Maverick City Music",
+        "name": "A Very Maverick Christmas (feat. Mav City Gospel Choir)",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Maverick City Music",
+        "price": "$9.99",
+        "image": [
+          "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/42/1c/cc/421ccc2b-1036-be60-dd56-7bbc6b71f50f/889845965824.jpg/55x55bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/42/1c/cc/421ccc2b-1036-be60-dd56-7bbc6b71f50f/889845965824.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/42/1c/cc/421ccc2b-1036-be60-dd56-7bbc6b71f50f/889845965824.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Tribl Records",
+        "releaseDate": "2021-11-30T00:00:00-07:00",
+        "itemCount": 16,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "A Very Maverick Christmas (feat. Mav City Gospel Choir)"
+                          },
+                          "br": "",
+                          "a": "Maverick City Music",
+                          "font": {
+                            "#text": "$9.99November 30, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Christian"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Tribl Records"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/now-thats-what-i-call-music-christmas-classics/1575783571?uo=2",
+        "title": "NOW That's What I Call Music! Christmas Classics - Various Artists",
+        "name": "NOW That's What I Call Music! Christmas Classics",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Various Artists",
+        "price": "$7.99",
+        "image": [
+          "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/1b/67/20/1b6720c6-085a-5f48-21f6-b9e986c4a4ee/21UMGIM56335.rgb.jpg/55x55bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/1b/67/20/1b6720c6-085a-5f48-21f6-b9e986c4a4ee/21UMGIM56335.rgb.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/1b/67/20/1b6720c6-085a-5f48-21f6-b9e986c4a4ee/21UMGIM56335.rgb.jpg/170x170bb.png"
+        ],
+        "rights": "This Compilation ℗ 2021 UMG Recordings, Inc. and Sony Music Entertainment",
+        "releaseDate": "2021-09-10T00:00:00-07:00",
+        "itemCount": 20,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "#text": "Various Artists",
+                          "b": {
+                            "a": "NOW That's What I Call Music! Christmas Classics"
+                          },
+                          "br": "",
+                          "font": {
+                            "#text": "$7.99September 10, 2021",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Holiday"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; This Compilation ℗ 2021 UMG Recordings, Inc. and Sony Music Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/my-gift/1528240902?uo=2",
+        "title": "My Gift - Carrie Underwood",
+        "name": "My Gift",
+        "link": "",
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Carrie Underwood",
+        "price": "$6.99",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/92/86/2c/92862c58-571b-98b7-9ec8-0901aeb1c7dc/20UMGIM69450.rgb.jpg/55x55bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/92/86/2c/92862c58-571b-98b7-9ec8-0901aeb1c7dc/20UMGIM69450.rgb.jpg/60x60bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/92/86/2c/92862c58-571b-98b7-9ec8-0901aeb1c7dc/20UMGIM69450.rgb.jpg/170x170bb.png"
+        ],
+        "rights": "A Capitol Records Nashville Release; ℗ 2020 UMG Recordings, Inc.",
+        "releaseDate": "2020-09-25T00:00:00-07:00",
+        "itemCount": 11,
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "My Gift"
+                          },
+                          "br": "",
+                          "a": "Carrie Underwood",
+                          "font": {
+                            "#text": "$6.99September 25, 2020",
+                            "br": ["", "", ""],
+                            "b": ["Genre:", "Price:", "Release Date:"],
+                            "a": "Christmas"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; A Capitol Records Nashville Release; ℗ 2020 UMG Recordings, Inc."
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

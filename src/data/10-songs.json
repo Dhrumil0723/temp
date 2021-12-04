@@ -1,0 +1,889 @@
+{
+  "feed": {
+    "id": "http://mzstoreservices-int-st.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topsongs/limit=10/xml",
+    "title": "iTunes Store: Top Songs",
+    "updated": "2021-12-04T04:25:01-07:00",
+    "link": [
+      "",
+      ""
+    ],
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://www.apple.com/itunes/"
+    },
+    "rights": "Copyright 2008 Apple Inc.",
+    "entry": [
+      {
+        "id": "https://music.apple.com/us/album/merry-christmas/1597450880?i=1597450885&uo=2",
+        "title": "Merry Christmas - Ed Sheeran & Elton John",
+        "name": "Merry Christmas",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Ed Sheeran & Elton John",
+        "price": "$1.29",
+        "image": [
+          "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/55x55bb.png",
+          "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/60x60bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/f4/22/23/f42223bc-9636-239d-83ba-95313f0c3f8a/190296347870.jpg/170x170bb.png"
+        ],
+        "rights": "An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited",
+        "releaseDate": "2021-12-03T00:00:00-07:00",
+        "collection": {
+          "name": "Merry Christmas - Single",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Merry Christmas"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Merry Christmas - Single",
+                            "Ed Sheeran &amp; Elton John"
+                          ],
+                          "font": {
+                            "#text": "$1.29December 3, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Pop"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/santas-gotta-dirty-job/1596636537?i=1596636544&uo=2",
+        "title": "Santa's Gotta Dirty Job - Rich Rowe",
+        "name": "Santa's Gotta Dirty Job",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Rich Rowe",
+        "price": "$1.29",
+        "image": [
+          "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/ac/8d/24/ac8d248e-8213-7975-6e24-a54bedaa326c/859751676619_cover.jpg/55x55bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/ac/8d/24/ac8d248e-8213-7975-6e24-a54bedaa326c/859751676619_cover.jpg/60x60bb.png",
+          "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/ac/8d/24/ac8d248e-8213-7975-6e24-a54bedaa326c/859751676619_cover.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Rich Records",
+        "releaseDate": "2021-11-22T04:00:00-07:00",
+        "collection": {
+          "name": "Santa's Gotta Dirty Job - Single",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Santa's Gotta Dirty Job"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Santa's Gotta Dirty Job - Single",
+                            "Rich Rowe"
+                          ],
+                          "font": {
+                            "#text": "$1.29November 22, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Country"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Rich Records"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/easy-on-me/1590035691?i=1590036021&uo=2",
+        "title": "Easy On Me - Adele",
+        "name": "Easy On Me",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Adele",
+        "price": "$1.29",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/55x55bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/60x60bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/73/6d/7c/736d7cfb-c79d-c9a9-4170-5e71d008dea1/886449666430.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment",
+        "releaseDate": "2021-10-15T00:00:00-07:00",
+        "collection": {
+          "name": 30,
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Easy On Me"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            30,
+                            "Adele"
+                          ],
+                          "font": {
+                            "#text": "$1.29October 15, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Pop"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/cold-heart-pnau-remix/1578986656?i=1578986673&uo=2",
+        "title": "Cold Heart (PNAU Remix) - Elton John & Dua Lipa",
+        "name": "Cold Heart (PNAU Remix)",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Elton John & Dua Lipa",
+        "price": "$1.29",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ec/2f/92/ec2f929f-e7ea-b291-42d7-75081bd808a1/21UMGIM68484.rgb.jpg/55x55bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/ec/2f/92/ec2f929f-e7ea-b291-42d7-75081bd808a1/21UMGIM68484.rgb.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/ec/2f/92/ec2f929f-e7ea-b291-42d7-75081bd808a1/21UMGIM68484.rgb.jpg/170x170bb.png"
+        ],
+        "rights": "An EMI release; ℗ 2021 Mercury Records Limited",
+        "releaseDate": "2021-08-13T05:00:00-07:00",
+        "collection": {
+          "name": "Cold Heart (PNAU Remix) - Single",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Cold Heart (PNAU Remix)"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Cold Heart (PNAU Remix) - Single",
+                            "Elton John &amp; Dua Lipa"
+                          ],
+                          "font": {
+                            "#text": "$1.29August 13, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Pop"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; An EMI release; ℗ 2021 Mercury Records Limited"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/racing-into-the-night-ringtone-remix/1576754035?i=1576754036&uo=2",
+        "title": "Racing Into the Night (Ringtone Remix) - Lilorx",
+        "name": "Racing Into the Night (Ringtone Remix)",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Lilorx",
+        "price": "$0.99",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/57/43/835743c3-9530-9e05-f7a3-41bb8cbf077e/artwork.jpg/55x55bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/57/43/835743c3-9530-9e05-f7a3-41bb8cbf077e/artwork.jpg/60x60bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/83/57/43/835743c3-9530-9e05-f7a3-41bb8cbf077e/artwork.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 3051210 Records DK",
+        "releaseDate": "2021-07-12T05:00:00-07:00",
+        "collection": {
+          "name": "Racing into the night (Ringtone Remix) - Single",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Racing Into the Night (Ringtone Remix)"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Racing into the night (Ringtone Remix) - Single",
+                            "Lilorx"
+                          ],
+                          "font": {
+                            "#text": "$0.99July 12, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Pop"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 3051210 Records DK"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/butter-holiday-remix/1597804686?i=1597804691&uo=2",
+        "title": "Butter (Holiday Remix) - BTS",
+        "name": "Butter (Holiday Remix)",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "BTS",
+        "price": "$0.69",
+        "image": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/04/35/2d0435be-c356-0e6c-5e02-bdbb6e2b08a8/192641894909_Cover.jpg/55x55bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/2d/04/35/2d0435be-c356-0e6c-5e02-bdbb6e2b08a8/192641894909_Cover.jpg/60x60bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2d/04/35/2d0435be-c356-0e6c-5e02-bdbb6e2b08a8/192641894909_Cover.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 BIGHIT MUSIC",
+        "releaseDate": "2021-12-03T04:00:00-07:00",
+        "collection": {
+          "name": "Butter (Holiday Remix) - Single",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Butter (Holiday Remix)"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Butter (Holiday Remix) - Single",
+                            "BTS"
+                          ],
+                          "font": {
+                            "#text": "$0.69December 3, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "K-Pop"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 BIGHIT MUSIC"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803&uo=2",
+        "title": "All I Want For Christmas Is You - Mariah Carey",
+        "name": "All I Want For Christmas Is You",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Mariah Carey",
+        "price": "$1.29",
+        "image": [
+          "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/55x55bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/60x60bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 1994 Sony Music Entertainment",
+        "releaseDate": "1994-10-29T00:00:00-07:00",
+        "collection": {
+          "name": "Merry Christmas",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "All I Want For Christmas Is You"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Merry Christmas",
+                            "Mariah Carey"
+                          ],
+                          "font": {
+                            "#text": "$1.29October 29, 1994",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Holiday"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 1994 Sony Music Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/aa/1595927679?i=1595927699&uo=2",
+        "title": "AA - Walker Hayes",
+        "name": "AA",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Walker Hayes",
+        "price": "$1.29",
+        "image": [
+          "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/7d/66/4c/7d664ceb-ae82-0645-4996-daf2f543e7b3/886449714209.jpg/55x55bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/7d/66/4c/7d664ceb-ae82-0645-4996-daf2f543e7b3/886449714209.jpg/60x60bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/7d/66/4c/7d664ceb-ae82-0645-4996-daf2f543e7b3/886449714209.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Monument Records, a division of Sony Music Entertainment",
+        "releaseDate": "2021-11-19T00:00:00-07:00",
+        "collection": {
+          "name": "Country Stuff The Album",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "AA"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Country Stuff The Album",
+                            "Walker Hayes"
+                          ],
+                          "font": {
+                            "#text": "$1.29November 19, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Country"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Monument Records, a division of Sony Music Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/shivers/1581087024?i=1581087034&uo=2",
+        "title": "Shivers - Ed Sheeran",
+        "name": "Shivers",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Ed Sheeran",
+        "price": "$1.29",
+        "image": [
+          "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/55x55bb.png",
+          "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/60x60bb.png",
+          "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/c5/d8/c6/c5d8c675-63e3-6632-33db-2401eabe574d/190296491412.jpg/170x170bb.png"
+        ],
+        "rights": "An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited",
+        "releaseDate": "2021-09-09T00:00:00-07:00",
+        "collection": {
+          "name": "=",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Shivers"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "=",
+                            "Ed Sheeran"
+                          ],
+                          "font": {
+                            "#text": "$1.29September 9, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Pop"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; An Asylum Records UK release, a division of Atlantic Records UK, ℗ 2021 Warner Music UK Limited"
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "https://music.apple.com/us/album/fancy-like/1565414763?i=1565415006&uo=2",
+        "title": "Fancy Like - Walker Hayes",
+        "name": "Fancy Like",
+        "link": [
+          "",
+          {
+            "duration": 30000
+          }
+        ],
+        "contentType": {
+          "contentType": ""
+        },
+        "category": "",
+        "artist": "Walker Hayes",
+        "price": "$1.29",
+        "image": [
+          "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/01/04/77/01047793-f93c-14a6-6819-4f429c50ec1a/886449239658.jpg/55x55bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/01/04/77/01047793-f93c-14a6-6819-4f429c50ec1a/886449239658.jpg/60x60bb.png",
+          "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/01/04/77/01047793-f93c-14a6-6819-4f429c50ec1a/886449239658.jpg/170x170bb.png"
+        ],
+        "rights": "℗ 2021 Monument Records, a division of Sony Music Entertainment",
+        "releaseDate": "2021-11-19T04:00:00-07:00",
+        "collection": {
+          "name": "Country Stuff - EP",
+          "link": "",
+          "contentType": {
+            "contentType": ""
+          }
+        },
+        "content": {
+          "table": {
+            "tr": [
+              {
+                "td": {
+                  "table": {
+                    "tr": {
+                      "td": [
+                        {
+                          "a": {
+                            "img": ""
+                          }
+                        },
+                        {
+                          "img": ""
+                        },
+                        {
+                          "b": {
+                            "a": "Fancy Like"
+                          },
+                          "br": [
+                            "",
+                            ""
+                          ],
+                          "a": [
+                            "Country Stuff - EP",
+                            "Walker Hayes"
+                          ],
+                          "font": {
+                            "#text": "$1.29November 19, 2021",
+                            "br": [
+                              "",
+                              "",
+                              ""
+                            ],
+                            "b": [
+                              "Genre:",
+                              "Price:",
+                              "Release Date:"
+                            ],
+                            "a": "Country"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "td": {
+                  "font": "&#169; ℗ 2021 Monument Records, a division of Sony Music Entertainment"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
